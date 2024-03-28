@@ -1,0 +1,7 @@
+file created to enter subjects
+
+entering the 1st semester subjects:
+ICT 
+PROGRAMMING
+PHYSICS
+OHSM
